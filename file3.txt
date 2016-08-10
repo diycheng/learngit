@@ -2,6 +2,8 @@ This is file3.txt.
 
 # Just test ... in file3.
 
+test git commit --amend
+
 ==========
 ==========
 ==========
