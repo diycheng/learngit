@@ -4,6 +4,7 @@ This is file1.
 
 test git commit -v
 test git commit --amend
+test git diff
 
 ==========
 
